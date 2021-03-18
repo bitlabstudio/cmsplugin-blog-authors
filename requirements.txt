@@ -10,7 +10,7 @@ django-cms==2.3.5
 # cmsplugin-blog==1.1.2
 -e git+git://github.com/fivethreeo/cmsplugin-blog.git@cd91a4eb066437aa254574759eed51da973314ab#egg=cmsplugin_blog
 django-people==0.2
-Pillow==1.7.8
+Pillow==8.1.1
 django-filer==0.9.3
 South==0.7.6
 
